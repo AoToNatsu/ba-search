@@ -10,6 +10,30 @@ This project lets you locally scrape the following sections sourced from the [Bl
 
 - Relationship Story
 
+## 📔 Examples
+
+```bash
+./ba-search search -I -i "gamer"
+
+# Output
+01. Events/Alabaster Calling Card/02.html (Momoi): I'm a really nice person, and I'm not violent either! I'm just a regular, passionate gamer!
+02. Events/New Year March/01.html (Maki): Gamers from every faction want to watch the sunrise, so there's an annual PVP event before dawn!
+03. Events/Summer Sky's Promise/09.html (Nagisa): How...odd. Seia, are you some sort of...gamer?
+04. Main Story/Volume 2/Chapter 2/Episode_02.html (Momoi): B-But I can't end on a loss. It hurts my pride as a gamer...
+05. Main Story/Volume 2/Chapter 2/Episode_02.html (Yuzu): Yup. That's what a gamer does, after all.
+06. Main Story/Volume 2/Chapter 2/Episode_05.html (Aris): Neru still has a long way to go as a gamer! She should be using combos like this...
+07. Main Story/Volume 2/Chapter 2/Episode_19.html (INFO LINE): Next Episode: Gamers and Friends
+08. Main Story/Volume EX/Chapter 2/Episode_23.html (Momoi): A-A waste?! Adding unnecessarily detailed real-life references is generally well-received...by some gamers!
+09. Relationship Story/Midori/03.html (Midori): Gamers and collectors alike all have their eyes on the limited edition special bonus.
+10. Relationship Story/Momoi/01.html (Momoi): That's a real blow to my pride as a gamer...
+11. Relationship Story/Momoi/03.html (Momoi): As a gamer, I can't turn this opportunity down, Sensei!
+12. Relationship Story/Momoi/03.html (Sensei): "Wait, as a gamer?"
+13. Relationship Story/Momoi/05.html (Momoi): Fu. Fu. Fu... And "Operation: Make Midori a Gamer" was a resounding success.
+14. Relationship Story/Momoi/05.html (Momoi): Huh? No. I was a gamer way before this!
+15. Relationship Story/Momoi/05.html (Momoi): O-Of course! True immersion is a sign of a real gamer!
+16. Relationship Story/Rei/01.html (Rei): What?! I-I'm not that amazing. I'm not even a gamer. I'm in baseball.
+```
+
 ## 🚀 Getting Started
 
 ### Prerequisites
