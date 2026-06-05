@@ -12,8 +12,30 @@ This project lets you locally scrape the following sections sourced from the [Bl
 
 ## 📔 Examples
 
+### Dialogue with "gacha"
+
 ```bash
-./ba-search search -I -i "gamer"
+./ba-search search --ignore-case --input "gacha"
+
+# Output
+1. Relationship Story/Hasumi/06.html (Hasumi): That there's a Justice Task Force member with a code name who shares your birthday and passion for gacha games?
+2. Relationship Story/Yuuka/01.html (Yuuka): ― Huh? Club Smoochie is the name of a gacha game?
+```
+
+### Dialogue with "gacha" (outlined for Markdown)
+
+```bash
+./ba-search search --ignore-case --input "gacha" -o
+
+# Output
+1. Relationship Story/Hasumi/06.html (**Hasumi**): That there's a Justice Task Force member with a code name who shares your birthday and passion for **gacha** games?
+2. Relationship Story/Yuuka/01.html (**Yuuka**): ― Huh? Club Smoochie is the name of a **gacha** game?
+```
+
+### Dialogue with "gamer"
+
+```bash
+./ba-search search --ignore-case --input "gamer"
 
 # Output
 01. Events/Alabaster Calling Card/02.html (Momoi): I'm a really nice person, and I'm not violent either! I'm just a regular, passionate gamer!
