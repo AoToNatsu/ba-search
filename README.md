@@ -196,7 +196,7 @@ Ignores the corresponding line types. `--sensei` ignores lines said by Sensei, e
 
 ### `archive <LINK> <END>`
 
-This is a wrapper around `wget` to mass download pages.
+This is a wrapper around `wget` to mass download pages in the current directory.
 
 The `archive` subcommand will list the link, range, and increment. You can omit this with the `-q` or `--quiet` flags.
 
