@@ -120,7 +120,7 @@ The [latest release](https://github.com/AoToNatsu/ba-search/releases/tag/v1.0.0)
 
 **❗ Final step:** When you download the latest release (either the .exe or linux binary), move it to your `BA Wiki DB` directory. If you do not have this directory, please follow the first step under [Prerequisites](#prerequisites). You may move on to [Usage](#usage) when this is complete.
 
-*For Linux users, you may want to rename the binary to `ba-search`. Windows users are recommended to keep the file extension as is, replacing the `ba-search` examples with `ba-search.exe`*
+*For Linux users, you may want to rename the binary to `ba-search`. Windows users must keep the file extension as is, replacing the `ba-search` examples in [Usage](#usage) with `ba-search.exe`*
 
 *NOTICE: Mac users must manually compile the project; details below.*
 
