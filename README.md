@@ -114,11 +114,11 @@ sudo pacman -S ripgrep wget
 
 There are two installation options:
 
-#### 1. Binary
+#### 1. Binary (recommended option)
 
-The [latest release](https://github.com/AoToNatsu/ba-search/releases/tag/v1.0.0) has the executable. This is the recommended option.
+The [latest release](https://github.com/AoToNatsu/ba-search/releases/tag/v1.0.0) has the executable.
 
-**❗ Final step:** When you download the latest release (either the .exe or linux binary), move it to your `BA Wiki DB` directory. If you do not have this directory, please follow the first step under [prerequisites](#prerequisites).
+**❗ Final step:** When you download the latest release (either the .exe or linux binary), move it to your `BA Wiki DB` directory. If you do not have this directory, please follow the first step under [Prerequisites](#prerequisites). You may move on to [Usage](#usage) when this is complete.
 
 *For Linux users, you may want to rename the binary to `ba-search`. Windows users are recommended to keep the file extension as is, replacing the `ba-search` examples with `ba-search.exe`*
 
@@ -136,7 +136,7 @@ cargo build --release
 
 This will build the binary in the `target/release` directory.
 
-❗ **Final step:** When your binary finishes building, move it to your `BA Wiki DB` directory. If you do not have this directory, please follow the first step under [prerequisites](#prerequisites).
+❗ **Final step:** When your binary finishes building, move it to your `BA Wiki DB` directory. If you do not have this directory, please follow the first step under [Prerequisites](#prerequisites). You may move on to [Usage](#usage) when this is complete.
 
 ## 💻 Usage
 
