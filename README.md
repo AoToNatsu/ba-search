@@ -18,7 +18,9 @@ This project lets you locally scrape the following sections sourced from the [Bl
 
 ```bash
 ./ba-search search --ignore-case --input "gacha"
+```
 
+```bash
 # Output
 1. Relationship Story/Hasumi/06.html (Hasumi): That there's a Justice Task Force member with a code name who shares your birthday and passion for gacha games?
 2. Relationship Story/Yuuka/01.html (Yuuka): ― Huh? Club Smoochie is the name of a gacha game?
@@ -28,7 +30,9 @@ This project lets you locally scrape the following sections sourced from the [Bl
 
 ```bash
 ./ba-search search --ignore-case --input "gacha" -o
+```
 
+```bash
 # Output
 1. Relationship Story/Hasumi/06.html (**Hasumi**): That there's a Justice Task Force member with a code name who shares your birthday and passion for **gacha** games?
 2. Relationship Story/Yuuka/01.html (**Yuuka**): ― Huh? Club Smoochie is the name of a **gacha** game?
@@ -38,7 +42,9 @@ This project lets you locally scrape the following sections sourced from the [Bl
 
 ```bash
 ./ba-search search --ignore-case --input "gamer"
+```
 
+```bash
 # Output
 01. Events/Alabaster Calling Card/02.html (Momoi): I'm a really nice person, and I'm not violent either! I'm just a regular, passionate gamer!
 02. Events/New Year March/01.html (Maki): Gamers from every faction want to watch the sunrise, so there's an annual PVP event before dawn!
@@ -63,7 +69,9 @@ This project lets you locally scrape the following sections sourced from the [Bl
 ```bash
 cd path/to/Events/directory
 ../ba-search search --ignore-case --input "gamer"
+```
 
+```bash
 # Output
 1. Alabaster Calling Card/02.html (Momoi): I'm a really nice person, and I'm not violent either! I'm just a regular, passionate gamer!
 2. New Year March/01.html (Maki): Gamers from every faction want to watch the sunrise, so there's an annual PVP event before dawn!
