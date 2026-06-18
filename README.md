@@ -4,9 +4,11 @@ Need to search for hard-to-find phrases like "Nameless Gods"? Or do you want to 
 
 This project lets you locally scrape the following sections sourced from the [Blue Archive Wiki](https://bluearchive.wiki/wiki):
 
-- Main Story
-
 - Events
+
+- Group Story
+
+- Main Story
 
 - Relationship Story
 
